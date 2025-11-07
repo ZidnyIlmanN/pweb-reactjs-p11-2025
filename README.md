@@ -20,11 +20,17 @@ Ini adalah aplikasi toko buku berbasis web yang dibangun menggunakan Next.js 13 
 - **Autentikasi:** Sistem autentikasi kustom
 
 ## Fitur-Fitur
+
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/d20e3cfe-7b28-4c4a-a484-2a255acbc95b" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/7fc7d6ca-7cc6-4326-b3d1-d608d0be8131" />
 1. **Autentikasi**
    - Pendaftaran pengguna
    - Login pengguna
    - Rute terproteksi
 
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/c0efbad5-67fa-4c0c-9de1-6adec45dea6e" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/c4da45a3-117c-46d5-9478-1ad7c44b8c70" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/2aade3cf-2e0e-41d8-8088-8d2205cad946" />
 2. **Manajemen Buku**
    - Lihat semua buku
    - Lihat detail buku
@@ -32,12 +38,14 @@ Ini adalah aplikasi toko buku berbasis web yang dibangun menggunakan Next.js 13 
    - Filter buku berdasarkan genre
    - Kategorisasi buku
 
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/917b2e38-b6c4-44c8-82cd-2c4710492bed" />
 3. **Keranjang Belanja**
    - Tambah buku ke keranjang
    - Lihat item keranjang
    - Update jumlah item
    - Hapus item dari keranjang
 
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/def76764-3ba1-4110-a6cf-9bde373e9a3a" />
 4. **Transaksi**
    - Proses checkout
    - Riwayat transaksi
