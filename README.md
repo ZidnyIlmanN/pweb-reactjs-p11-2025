@@ -16,7 +16,7 @@ Ini adalah aplikasi toko buku berbasis web yang dibangun menggunakan Next.js 13 
 - **Bahasa Pemrograman:** TypeScript
 - **Styling:** Tailwind CSS
 - **Manajemen State:** React Context (Auth Context, Cart Context)
-- **Komponen UI:** Komponen kustom dengan shadcn/ui
+- **Komponen UI:** Komponen kustom
 - **Autentikasi:** Sistem autentikasi kustom
 
 ## Fitur-Fitur
